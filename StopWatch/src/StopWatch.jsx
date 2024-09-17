@@ -53,7 +53,6 @@ const StopWatch = () => {
     }
 
 
-
   return (
     <div className='stop-wait'> 
         <div className='display'> {formatTime()} </div>
