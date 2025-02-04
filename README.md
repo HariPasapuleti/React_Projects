@@ -53,3 +53,19 @@ Check out the live demo here: [To-Do List App](https://react-project-todolist1.n
 
 ---
 
+### 4. Counter Project
+
+A simple counter application using the `useReducer` hook to manage state.
+
+#### Features
+
+- Increment the counter by the selected step value.
+- Decrement the counter by the selected step value.
+- Reset the counter to zero.
+- Set a custom step value for increment and decrement actions.
+
+#### Live Demo
+
+Check out the live demo here: [Counter App](https://react-project-counter1.netlify.app/)
+
+---
