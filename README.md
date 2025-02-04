@@ -4,7 +4,22 @@ This repository contains multiple React projects built to demonstrate various fu
 
 ## Projects Included
 
-### 1. Stopwatch Project
+### 1. Digital Clock Project
+
+A live digital clock application that dynamically displays the current time.
+
+#### Features
+
+- Displays current time in the format `HH:MM:SS AM/PM`.
+- Updates dynamically every second.
+
+#### Live Demo
+
+Check out the live demo here: [Digital Clock App](https://react-project-digitalclock.netlify.app/)
+
+---
+
+### 2. Stopwatch Project
 
 A simple stopwatch application with precise timing functionality.
 
@@ -21,7 +36,7 @@ Check out the live demo here: [Stopwatch App](https://react-project-stopwatch.ne
 
 ---
 
-### 2. To-Do List Project
+### 3. To-Do List Project
 
 A dynamic to-do list application to manage daily tasks.
 
@@ -34,21 +49,7 @@ A dynamic to-do list application to manage daily tasks.
 
 #### Live Demo
 
-Check out the live demo here: [To-Do List App](https://react-project-todolist.netlify.app/)
+Check out the live demo here: [To-Do List App](https://react-project-todolist1.netlify.app/)
 
 ---
 
-### 3. Digital Clock Project
-
-A live digital clock application that dynamically displays the current time.
-
-#### Features
-
-- Displays current time in the format `HH:MM:SS AM/PM`.
-- Updates dynamically every second.
-
-#### Live Demo
-
-Check out the live demo here: [Digital Clock App](https://react-project-digitalclock.netlify.app/)
-
----
