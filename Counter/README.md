@@ -15,7 +15,7 @@ This is a simple counter application built using React. The counter allows users
 
 ## Live Demo
 
-Check out the live demo of the Counter project here: [Counter App](https://react-project-counter.netlify.app/)
+Check out the live demo of the Counter project here: [Counter App](https://react-project-counter1.netlify.app/)
 
 ## Prerequisites
 
