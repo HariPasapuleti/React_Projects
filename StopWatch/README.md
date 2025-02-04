@@ -9,9 +9,9 @@ This is a simple stopwatch application built using React and Vite. The stopwatch
 - Reset the stopwatch to clear the elapsed time.
 - Displays time in the format `MM:SS:MS` (minutes, seconds, milliseconds).
 
-## Project Setup
+## Live Demo
 
-This project was initialized using [Vite](https://vitejs.dev/), a fast frontend build tool.
+Check out the live demo of the Stopwatch project here: [Stopwatch App](https://react-project-stopwatch.netlify.app/)
 
 ### Prerequisites
 
