@@ -11,7 +11,7 @@ This is a simple To-Do List application built using React. The To-Do List allows
 
 ## Live Demo
 
-Check out the live demo of the To-Do List project here: [To-Do List App](https://your-live-demo-link.com/)
+Check out the live demo of the To-Do List project here: [To-Do List App](https://react-project-todolist1.netlify.app/)
 
 ### Prerequisites
 
